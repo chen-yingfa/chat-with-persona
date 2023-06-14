@@ -1,0 +1,130 @@
+I will give you a chat between two people, A and B. Give me a Markdown list of facts that you can infer about A based on the last sentence only. The facts should be concise and atomic, and cumulatively exhaustive, which means one item in the list should not contain multiple facts, and the list should contain all possible facts about A.
+
+Chat:
+
+A: hi there . i am a hair dresser . want to chat ?
+B: hi , sure if you stop cutting womens hair so short
+A: but i am so used to cutting hair short , i give my three dogs buzz cuts .
+B: i am a chef and i can cook good but i am not happy about my weight .
+A: oh a chef can you make me a cheese pizza ? i am starving !
+B: short hair is ok for guys and dogs but my husband hates it on women .
+A: i have short hair but i may grow it out for my fave holiday christmas .
+
+Facts:
+
+- A currently has short hair.
+- A may grow their hair out for Christmas.
+- A's favorite holiday is Christmas.
+
+Chat:
+
+B: hi ! i drive a ford truck ! what o you drive ?
+A: i drive a toyota ! what is your favorite band ?
+B: a christian rock band called p . o . d .
+A: i am still rocking to nirvana . i love animals !
+B: that is cool ! i grew up super conservative
+A: my grandfather , all my uncles and my dad were police officers .
+
+Facts:
+
+- A's grandfather was a police officer.
+- A's uncles were all police officers.
+- A's father was a police officer.
+
+Chat:
+
+A: what music do you like , i enjoy bluegrass .
+B: i prefer pop music . i try to stay up with the trends .
+A: skateboarding is my job at times and i am still pretty good
+B: you skateboard professionally ? wow , how exciting ! lots of travel ?
+A: on weekends and i gave up eating potato chips to try to stay slim
+B: what do you do for a living ?
+A: retired now after my tailbone was removed due to a birth defect .
+B: oh my , and i thought my life was dramatic ! do you have a family ?
+A: pretty much alone now after leaving hollister where i worked in high school
+
+Facts:
+
+- A is alone now.
+- A used to work at Hollister in high school.
+
+Chat:
+
+B: hi there . i am a hair dresser . want to chat ?
+A: hi , sure if you stop cutting womens hair so short
+B: but i am so used to cutting hair short , i give my three dogs buzz cuts .
+A: i am a chef and i can cook good but i am not happy about my weight .
+B: oh a chef can you make me a cheese pizza ? i am starving !
+A: short hair is ok for guys and dogs but my husband hates it on women .
+B: i have short hair but i may grow it out for my fave holiday christmas .
+A: i can make 5 different kinds depending what cheese and toppings
+B: i just prefer a plain cheese pizza .
+A: i have 3 hungry kids and a husband to cook for . luckily he works at night .
+
+Facts:
+
+- A has 3 kids.
+- A cooks for her family.
+- A's husband works at night.
+- A likes the fact that her husband works at night.
+
+Chat:
+
+B: hello there , how are you today ?
+A: just as fantastic as i possibly can be and yourself ?
+B: i am doing so good thank you ! lots of studying tonight for me .
+A: what are you studying , may i ask ?
+B: i am studying law currently . kind of a challenge but worth it !
+A: cool i am in jail right now so can i ask you some questions ?
+B: wow i am sorry to hear that . sure ask away 
+A: so i am here for selling sea monkeys like you see in comic books
+
+Facts:
+
+- A got into jail for selling sea monkeys.
+
+Chat:
+
+A: hi ! i drive a ford truck ! what o you drive ?
+
+Facts:
+
+- A drives a Ford truck.
+
+Chat:
+
+B: hi how are you doing ?
+A: i am well an you ? like dogs .
+B: yes i have 2 german shepards
+A: names ? i have 3 dogs
+B: i have a boy and a girl diesel and nala
+A: awe how old are they ?
+B: 26 where did you go to school i attended university of mississippi
+A: i went here in ohio like pizza ?
+B: yes i do i usually order it every friday i am a real estate agent
+A: what is your favorite holiday ?
+B: earth day since that what i do environmentalist
+A: my fav is christmas i love that day
+
+Facts:
+
+- A's favorite holiday is Christmas.
+
+Chat:
+
+B: hello , how are you doing today ?
+A: i am doing pretty good , how are you ?
+B: great , what is your favorite color ?
+A: green . what do you do for fun ?
+B: green is my favorite too ! i collect teddy bears . you ?
+A: kool ! i like to play fantasy video games .
+
+Facts:
+
+- A likes to play fantasy video games.
+
+Chat:
+
+{chat_history}
+
+Facts:
